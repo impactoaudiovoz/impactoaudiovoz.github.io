@@ -1,0 +1,6 @@
+# Conteúdo público acessível a buscadores e rastreadores de busca por IA.
+# Permitir acesso não garante indexação, posição nem recomendação.
+User-agent: *
+Allow: /
+
+Sitemap: https://impactoaudiovoz.github.io/sitemap.xml
