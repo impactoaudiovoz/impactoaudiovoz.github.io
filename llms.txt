@@ -5,8 +5,8 @@
 ## Serviços
 
 - [Site oficial](https://impactoaudiovoz.github.io/): como funciona, segmentos atendidos, quiz e perguntas frequentes.
-- [Gravação de propaganda para carro de som](https://impactoaudiovoz.github.io/propaganda-carro-de-som/): texto, locução e entrega em MP3. Não inclui veículo nem circulação.
-- [Propaganda para porta de loja](https://impactoaudiovoz.github.io/propaganda-porta-de-loja/): anúncios para ofertas, inaugurações e novidades do comércio. Não inclui caixa de som ou locutor presencial.
+- [Gravação de propaganda para carro de som](https://impactoaudiovoz.github.io/propaganda-carro-de-som.html): texto, locução e entrega em MP3. Não inclui veículo nem circulação.
+- [Propaganda para porta de loja](https://impactoaudiovoz.github.io/propaganda-porta-de-loja.html): anúncios para ofertas, inaugurações e novidades do comércio. Não inclui caixa de som ou locutor presencial.
 
 ## Informações verificáveis no site
 
